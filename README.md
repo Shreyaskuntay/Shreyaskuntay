@@ -162,7 +162,7 @@ shreyas = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shreyaskuntay-181717?style=for-the-badge&logo=github)](https://github.com/Shreyaskuntay)
 [![Email](https://img.shields.io/badge/Email-shreyas0sonu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyas0sonu@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Bangalore%2C%20India-7c3aed?style=for-the-badge)](https://github.com/Shreyaskuntay)
+[![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-7c3aed?style=for-the-badge)](https://github.com/Shreyaskuntay)
 
 </div>
 
