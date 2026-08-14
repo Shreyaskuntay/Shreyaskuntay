@@ -19,19 +19,8 @@
 
 ## 🧠 About Me
 
-I'm a data scientist with a passion for building end-to-end solutions — from raw audio signals to deep learning classifiers, and from messy CSVs to polished Tableau dashboards. I love projects where code meets real-world impact.
+M.Sc. student in Artificial Intelligence & Big Data with hands-on experience building AI-driven tools, automated data pipelines, and full-stack applications. Built and shipped end-to-end projects spanning business analytics automation, RAG/LLM applications, and applied ML pipelines — comfortable translating business requirements into working digital solutions from problem scoping through deployment. Strong Python/SQL foundation with a business-first, impact-driven mindset.
 
-```python
-shreyas = {
-    "location"   : "Berlin, Germany",
-    "focus"      : ["Artificial Intelligence","Deep Learning","Machine Learning","Business Intelligence"],
-    "languages"  : ["Python", "SQL", "Jupyter"],
-    "tools"      : ["TensorFlow", "Tableau", "MySQL", "Librosa", "Pandas"],
-    "interests"  : ["Audio AI", "Emotion Recognition", "Data Pipelines", "BI Automation"],
-    "fun_fact"   : "I made a model that understands emotions better than most Mondays"
-}
-```
----
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
