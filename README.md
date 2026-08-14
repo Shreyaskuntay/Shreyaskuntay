@@ -27,95 +27,95 @@ M.Sc. student in Artificial Intelligence & Big Data with hands-on experience bui
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ Speech Emotion Recognition</h3>
-      <a href="https://github.com/Shreyaskuntay/speech-emotion-recognition">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaskuntay&repo=speech-emotion-recognition&theme=midnight-purple&hide_border=true" />
-      </a>
-      <br/><br/>
-      <p>Deep Learning pipeline using <strong>CNN + MFCC</strong> to classify 7 emotions from speech audio with <strong>85% accuracy</strong>. Built on the RAVDESS dataset with real-time prediction support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Librosa-00BFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CNN-7c3aed?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Business Analytics Dashboard</h3>
-      <a href="https://github.com/Shreyaskuntay/Business_analytics_dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaskuntay&repo=Business_analytics_dashboard&theme=midnight-purple&hide_border=true" />
-      </a>
-      <br/><br/>
-      <p>End-to-end BI solution with <strong>Python ETL pipelines</strong>, <strong>MySQL</strong> data warehouse, and <strong>Tableau dashboards</strong> — reduced report generation time by <strong>70%</strong>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ETL-7c3aed?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Car Price Prediction</h3>
-      <a href="https://github.com/Shreyaskuntay/CarPricePrediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaskuntay&repo=CarPricePrediction&theme=midnight-purple&hide_border=true" />
-      </a>
-      <br/><br/>
-      <p>ML regression model to predict used car prices using feature engineering, EDA, and multiple algorithms in a Jupyter notebook workflow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <br/><br/><br/>
-      <blockquote>
-        <h>Currently working on new ML project with KNN to measure the severity of the plane errors</h>
-        <em>"Data is the oil for machine learning — but only if you refine it."</em>
-        <br/><br/>
-        Every project here is built to solve a real problem, measured by real metrics. I believe in clean pipelines, honest evaluations, and dashboards people actually use.
-      </blockquote>
-    </td>
-  </tr>
-</table>
+- 🤖 **RAG-Scheduler**  
+  [https://github.com/Shreyaskuntay/RAG-scheduler](https://github.com/Shreyaskuntay/RAG-scheduler)
+
+  Full-stack RAG-based chatbot built with **React**, **TypeScript**, **Node.js/Express**, using **Transformers.js** for embeddings, **HNSWLib** for vector search, and **Ollama** for local LLM inference. Reads and understands schedule data, answering natural-language questions in real time.
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+- 🎙️ **Speech Emotion Recognition**  
+  [https://github.com/Shreyaskuntay/speech-emotion-recognition](https://github.com/Shreyaskuntay/speech-emotion-recognition)
+
+  Deep Learning pipeline using **CNN + MFCC** to classify 7 emotions from speech audio. Built on the RAVDESS dataset with real-time prediction support.
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![Librosa](https://img.shields.io/badge/Librosa-00BFFF?style=flat-square)
+  ![CNN](https://img.shields.io/badge/CNN-7c3aed?style=flat-square)
+
+- 📊 **Business Analytics Dashboard**  
+  [https://github.com/Shreyaskuntay/Business_analytics_dashboard](https://github.com/Shreyaskuntay/Business_analytics_dashboard)
+
+  End-to-end BI solution with **Python ETL pipelines**, **MySQL** data warehouse, and **Tableau dashboards** — reduced report generation time by **70%**.
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+  ![ETL](https://img.shields.io/badge/ETL-7c3aed?style=flat-square)
+
+- 🚗 **Car Price Prediction**  
+  [https://github.com/Shreyaskuntay/CarPricePrediction](https://github.com/Shreyaskuntay/CarPricePrediction)
+
+  ML regression model to predict used car prices using feature engineering, EDA, and multiple algorithms in a Jupyter notebook workflow.
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+Currently working on a new ML project using KNN to measure the severity of aircraft sensor faults.
+
+*"Data is the oil for machine learning — but only if you refine it."*
+
+Every project here is built to solve a real problem, measured by real metrics. I believe in clean pipelines, honest evaluations, and dashboards people actually use.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & Notebooks**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Machine Learning & Deep Learning**
+**AI & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+
+**Data & Analytics**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Data & BI**
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Tools & Dev**
+**Application Development**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Development & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -165,7 +165,7 @@ M.Sc. student in Artificial Intelligence & Big Data with hands-on experience bui
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
