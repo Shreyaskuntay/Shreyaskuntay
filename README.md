@@ -60,12 +60,7 @@ M.Sc. student in Artificial Intelligence & Big Data with hands-on experience bui
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-Currently working on a new ML project using KNN to measure the severity of aircraft sensor faults.
-
-*"Data is the oil for machine learning — but only if you refine it."*
-
-Every project here is built to solve a real problem, measured by real metrics. I believe in clean pipelines, honest evaluations, and dashboards people actually use.
+  
 
 ---
 
@@ -121,32 +116,14 @@ Every project here is built to solve a real problem, measured by real metrics. I
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyaskuntay&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaskuntay&layout=compact&theme=midnight-purple&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyaskuntay&theme=midnight-purple&hide_border=true" />
-</div>
-
----
-
 ## 🏆 Highlights
-
-<div align="center">
 
 | 🎯 Project | 📌 Impact |
 |---|---|
-| Speech Emotion Recognition | **85% accuracy** across 7 emotion classes |
+| RAG-Scheduler | Full-stack RAG chatbot with local LLM inference (Ollama) and vector search (HNSWLib) |
+| Speech Emotion Recognition | **92.18% accuracy** across 7 emotion classes |
 | Business Analytics Dashboard | **70% faster** report generation via automation |
 | Car Price Prediction | End-to-end ML regression with feature engineering |
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
